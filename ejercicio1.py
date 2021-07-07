@@ -10,4 +10,3 @@ class algoritmo():
 
 clase1 =  algoritmo ()
 clase1 . ejercicio1 ()
-          
